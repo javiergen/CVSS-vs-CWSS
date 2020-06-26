@@ -2,6 +2,7 @@
 
 <img src="/repos/recursos-images/logoOadis.png" align="center" alt="logoOadis" style="zoom:100%;" />
 ​
+
 ## CVSS VS CWSS
 
 #### ¿A quién va dirigido este artículo?
@@ -57,9 +58,10 @@ Tomando el error de Heartbleed bug, que es una vulnerabilidad grave en la popula
 
 Esta vulnerabilidad ya se encuentra clasifica en el CWE-200: Exposure of Sensitive Information to an Unauthorized Actor, lo que nos permite llenar con más precisión el puntaje de CVSS que por lo regurar es de 6.4. Este puntaje puede variar dependiendo de impacto que pueda tener encontrar esta vulnerabildiad dentro de una organización y en que sistema se encuentre. 
 
-<img src="/repos/recursos-images/ejemploCVSS01.jpg" align="center" alt="imagen03" style="zoom:100%;" />
+<img src="/repos/recursos-images/ejemploCVSS01" align="center" alt="imagen03" style="zoom:100%;" />
 
-<img src="/repos/recursos-images/ejemploCVSS02.jpg" align="center" alt="imagen04" style="zoom:100%;" />
+
+<img src="/repos/recursos-images/ejemploCVSS02" align="center" alt="imagen04" style="zoom:100%;" />
 
 ​
 ## Referencias
